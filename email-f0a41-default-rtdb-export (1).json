@@ -1,0 +1,95 @@
+{
+  "emails" : {
+    "0" : {
+      "from_user" : 2,
+      "message" : "Ola",
+      "time" : "16:00:00",
+      "to_user" : 1
+    },
+    "1" : {
+      "from_user" : 2,
+      "message" : "Eaii",
+      "time" : "17:00:00",
+      "to_user" : 1
+    },
+    "2" : {
+      "from_user" : 1,
+      "message" : "Olaaa",
+      "time" : "09:00:00",
+      "to_user" : 2
+    },
+    "3" : {
+      "from_user" : 3,
+      "message" : "Tudo bem?",
+      "time" : "10:00:00",
+      "to_user" : 2
+    },
+    "4" : {
+      "from_user" : 2,
+      "message" : "Tudo sim, e com você?",
+      "time" : "18:00:00",
+      "to_user" : 3
+    },
+    "5086284852437712896" : {
+      "from_user" : 1,
+      "message" : "Ola, tudo bem com você?",
+      "time" : "23:34:29",
+      "to_user" : 2
+    },
+    "5122313649456676864" : {
+      "from_user" : 1,
+      "message" : "Ola, tudo bem?",
+      "time" : "00:07:51",
+      "to_user" : 3
+    },
+    "5135824448338788352" : {
+      "from_user" : 1,
+      "message" : "Eai",
+      "time" : "23:34:34",
+      "to_user" : 1
+    },
+    "5149335247220899840" : {
+      "from_user" : 1,
+      "message" : "Ola, tudo bem com você?",
+      "time" : "23:34:37",
+      "to_user" : 2
+    },
+    "6135623565615038464" : {
+      "from_user" : 1,
+      "message" : "Ola",
+      "time" : "00:09:12",
+      "to_user" : 3
+    },
+    "6140127165242408960" : {
+      "from_user" : 2,
+      "message" : "Hello Friend!",
+      "time" : "00:09:13",
+      "to_user" : 2
+    },
+    "6216688358907707392" : {
+      "from_user" : 1,
+      "message" : "Que legal!!!",
+      "time" : "00:09:24",
+      "to_user" : 3
+    },
+    "6221191958535077888" : {
+      "from_user" : 2,
+      "message" : "Massa!",
+      "time" : "00:09:25",
+      "to_user" : 2
+    }
+  },
+  "users" : [ null, {
+    "email" : "raiane.dev@gmail.com",
+    "ip" : "127.0.0.1",
+    "password" : "root"
+  }, {
+    "email" : "user@example.com",
+    "ip" : "192.168.0.104",
+    "password" : "root"
+  }, {
+    "email" : "raissa@gmail.com",
+    "ip" : "192.168.0.107",
+    "password" : "idiota"
+  } ]
+}
