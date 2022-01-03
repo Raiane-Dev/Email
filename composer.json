@@ -1,0 +1,20 @@
+{
+    "name": "user/email",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "Src\\": "Src/",
+            "Kreait\\": "src"
+        },
+        "files": ["App/Config/config.php"]
+    },
+    "authors": [
+        {
+            "name": "Raiane Dev",
+            "email": "raiane.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "kreait/firebase-php": "^5.25"
+    }
+}
